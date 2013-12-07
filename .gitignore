@@ -1,0 +1,3 @@
+*.exe
+*.exe.core
+debugTest.sh
